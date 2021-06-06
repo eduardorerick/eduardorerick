@@ -8,7 +8,7 @@
 
 
 <p>&nbsp;
-   <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=eduardorerick&show_icons=true&locale=en" alt="eduardorerick" />
+   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardorerick&theme=default)](https://github.com/eduardorerick/" alt="eduardorerick" />
    <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardorerick&show_icons=true&locale=en&layout=compact" alt="eduardorerick" /></p>
    
 
