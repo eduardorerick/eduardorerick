@@ -8,9 +8,8 @@
 
 
 <p>&nbsp;
-   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardorerick&theme=default)](https://github.com/eduardorerick/" alt="eduardorerick" />
-   
-   <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardorerick&show_icons=true&locale=en&layout=compact" alt="eduardorerick" /></p>
+   <img align="right" width="43.5%" src="https://github-readme-stats.vercel.app/api?username=eduardorerick&theme=default)](https://github.com/eduardorerick/" alt="eduardorerick" />
+   <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardorerick&show_icons=true&locale=en&layout=compact" alt="eduardorerick" /></p>
    
 
 ![Snake animation](https://github.com/eduardorerick/eduardorerick/blob/output/github-contribution-grid-snake.svg)
