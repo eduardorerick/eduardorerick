@@ -18,9 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardorerick&show_icons=true&locale=en&layout=compact" alt="eduardorerick" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardorerick&show_icons=true&locale=en" alt="eduardorerick" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardorerick&" alt="eduardorerick" /></p>
 
 
 
