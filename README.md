@@ -5,14 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardorerick" alt="eduardorerick" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently studying on [Ignite](https://rocketseat.com.br/ignite)
 - 🌱 I’m currently learning **NextJS, CMS, MySQL**
 - 👨‍💻 All of my projects are available at [Eduardo Rerick](eduardorerick-portfolio.netlify.app)
 - 💬 Ask me about **anything!** feel free to leave me a message!
 - 📫 How to reach me **eduardorerick@gmail.com**
-
 - 📫 Connect with me: [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-rerick-4799191a0/)
 
 
