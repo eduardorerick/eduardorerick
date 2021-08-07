@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [Eduardo Rerick](eduardorerick-portfolio.netlify.app)
 - 💬 Ask me about **anything!** feel free to leave me a message!
 - 📫 How to reach me **eduardorerick@gmail.com**
-- 📫 Connect with me: [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-rerick-4799191a0/)
+- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/eduardo-rerick-4799191a0/)
 
 
 <h3 align="left">Languages and Tools:</h3>
