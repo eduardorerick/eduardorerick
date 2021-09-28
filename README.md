@@ -5,8 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardorerick" alt="eduardorerick" /></a> </p>
 
-- 🔭 I’m currently studying on [Ignite](https://rocketseat.com.br/ignite)
-- 🌱 I’m currently learning **NextJS, CMS, MySQL**
+- 🌱 I’m working with **NextJS, React, Typescript**
 - 👨‍💻 All of my projects are available at [Eduardo Rerick](eduardorerick-portfolio.netlify.app)
 - 💬 Ask me about **anything!** feel free to leave me a message!
 - 📫 How to reach me **eduardorerick@gmail.com**
