@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardorerick" alt="eduardorerick" /></a> </p>
 
-- 🌱 I’m working with **NextJS, React, Typescript**
+- 🌱 I’m studying **NextJS, React, Typescript**
 - 👨‍💻 All of my projects are available at [Eduardo Rerick](eduardorerick-portfolio.netlify.app)
 - 👨‍💻 Currently working as React Typescript Front-end Developer at Yssy & Co!
 - 💬 Ask me about **anything!** feel free to leave me a message!
