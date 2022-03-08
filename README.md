@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardorerick&label=Profile%20views&color=0e75b6&style=flat" alt="eduardorerick" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardorerick" alt="eduardorerick" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardorerick&theme=dracula" alt="eduardorerick" /></a> </p>
 
 - 🌱 I’m studying **NextJS, React, Typescript**
 - 👨‍💻 All of my projects are available at [Eduardo Rerick](eduardorerick-portfolio.netlify.app)
