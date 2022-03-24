@@ -21,4 +21,4 @@
 
 
 
-![Snake animation](https://github.com/eduardorerick/eduardorerick/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/eduardorerick/eduardorerick/blob/output/github-contribution-grid-snake.svg) -->
