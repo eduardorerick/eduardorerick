@@ -7,7 +7,6 @@
 
 - 🌱 I’m focused on **NextJS, React, Typescript, Cypress**
 - 👨‍💻 Currently working at my personal project [Fullstack Delivery App](https://github.com/eduardorerick/delivery-app-fullstack)
-- 👨‍💻 All of my projects are available at [Eduardo Rerick](eduardorerick-portfolio.netlify.app)
 - 👨‍💻 Currently working as React Typescript Front-end Developer at [Yssy & Co](https://github.com/YSSYBR)!
 - 💬 Ask me about **anything!** feel free to leave me a message!
 - 📫 How to reach me **eduardorerick@gmail.com**
