@@ -6,7 +6,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardorerick&theme=dracula" alt="eduardorerick" /></a> </p>
 
 - 🌱 I’m focused on **React, Typescript, Cypress, NestJS, Prisma**
-- 👨‍💻 Currently working at my personal project [Fullstack Delivery App](https://github.com/eduardorerick/delivery-app-fullstack)
 - 👨‍💻 Currently working as React Typescript Front-end Developer at [Yssy & Co](https://github.com/YSSYBR)!
 - 💬 Ask me about **anything!** feel free to leave me a message!
 - 📫 How to reach me **eduardorerick@gmail.com**
