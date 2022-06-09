@@ -3,13 +3,10 @@ Hi 👋 My name is Eduardo Rerick
 
 Front-end Developer
 -------------------
-
-Front-End Developer, passionate about Javascript, software development and problem solving. Comfortable with variables, arrays, objects, loops, functions, Object Oriented Programming (OOP), functional programming and architectural patterns.
-
 * 🌍  I'm based in Belém, Pará
 * ✉️  You can contact me at [eduardorerick@gmail.com](mailto:eduardorerick@gmail.com)
-* 🚀  I'm currently working on [Delivery app fullstack](http://github.com/eduardorerick/delivery-app-fullstack)
-* 🧠  I'm learning NextJS, NestJS, Micro Front-end
+<!-- * 🚀  I'm currently working on [Delivery app fullstack](http://github.com/eduardorerick/delivery-app-fullstack) -->
+* 🧠  I'm currently studying NestJS, Micro Front-end, Module Federation.
 * 🤝  I'm open to collaborating on developing APIs, developing Front-end, open-source
 * ⚡  I used to be a teacher, majored in chemistry, I took my love of education to programming, if you are a beginner (or experienced too) looking for a mentor or colleague to talk to about your studies, feel free to message me
 
