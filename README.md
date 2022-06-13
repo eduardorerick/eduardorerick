@@ -49,7 +49,3 @@ src="https://img.shields.io/github/followers/eduardorerick?logo=github&style=for
 <a href="http://www.github.com/eduardorerick"><img src="https://github-readme-stats.vercel.app/api?username=eduardorerick&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eduardorerick's GitHub stats" /></a>
 
 <a href="https://github.com/eduardorerick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorerick&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/eduardorerick/delivery-app-fullstack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardorerick&repo=delivery-app-fullstack&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eduardorerick/letmeask" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardorerick&repo=letmeask&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
