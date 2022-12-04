@@ -3,11 +3,10 @@ Hi 👋 My name is Eduardo Rerick
 
 Full Stack Developer
 -------------------
-* 🌍  I'm based in Belém, Pará
+* 🌍  I'm based in Osasco, São Paulo
 * ✉️  You can contact me at [eduardorerick@gmail.com](mailto:eduardorerick@gmail.com)
-<!-- * 🚀  I'm currently working on [Delivery app fullstack](http://github.com/eduardorerick/delivery-app-fullstack) -->
 * 🧠  I'm currently doing a **specialization course in Software Engineering at PUC-Minas**
-* 🧠  I'm currently studying Software Architecture, Flutter, NestJS.
+* 🧠  I'm currently studying Software Architecture, DevOps.
 * 🤝  I'm open to collaborating on developing APIs, developing Front-end, open-source
 * ⚡  I used to be a teacher, majored in chemistry, I took my love of education to programming, if you are a beginner (or experienced too) looking for a mentor or colleague to talk to about your studies, feel free to message me
 
