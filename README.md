@@ -1,4 +1,4 @@
-Hi 👋 My name is Eduardo Rerick
+Eduardo Rerick
 ===============================
 
 Full Stack Developer
