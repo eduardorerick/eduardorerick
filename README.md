@@ -3,12 +3,11 @@ Eduardo Rerick
 
 Full Stack Developer
 -------------------
-* 🌍  I'm based in Osasco, São Paulo
+* 🌍  Osasco, São Paulo
 * ✉️  You can contact me at [eduardorerick@gmail.com](mailto:eduardorerick@gmail.com)
 * 🧠  I'm currently doing a **specialization course in Software Engineering at PUC-Minas**
-* 🧠  I'm currently studying Flutter.
-* 🤝  I'm open to collaborating on developing APIs, developing Front-end, open-source
-* ⚡  I used to be a teacher, majored in chemistry, I took my love of education to programming, if you are a beginner (or experienced too) looking for a mentor or colleague to talk to about your studies, feel free to message me
+* ⚡  I'm currently working as a Full Stack Software Engineer in a startup in Barueri, São Paulo.
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardorerick&label=Profile%20views&color=0e75b6&style=flat" alt="eduardorerick" /> </p>
 <a href="https://www.github.com/eduardorerick" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eduardorerick?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
