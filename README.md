@@ -5,7 +5,7 @@ Full Stack Developer
 -------------------
 * 🌍  Osasco, São Paulo
 * ✉️  You can contact me at [eduardorerick@gmail.com](mailto:eduardorerick@gmail.com)
-* 🧠  I'm currently doing a **specialization course in Software Engineering at PUC-Minas**
+* 🧠  Postgraduate Degree in Software Engineering
 * ⚡  I'm currently working as a Full Stack Software Engineer in a startup in Barueri, São Paulo.
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardorerick&label=Profile%20views&color=0e75b6&style=flat" alt="eduardorerick" /> </p>
