@@ -10,7 +10,7 @@ fn main() {
         name: "Eduardo Rerick",
         experience: 4,
         current_position: "Senior Software Engineer",
-        current_position: "Yssy",
+        current_company: "Yssy",
         education: Education {
             degree: "Bachelor's in Chemistry",
             post_graduation: "Postgraduate in Software Engineering",
