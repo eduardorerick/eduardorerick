@@ -26,7 +26,7 @@ fn main() {
             post_graduation: "Postgraduate in Software Engineering",
         },
         social_media_links: vec![
-            "LinkedIn", "Twitter", "Personal Blog"
+            "https://www.linkedin.com/in/eduardo-rerick/", "https://medium.com/@eduardorerick"
         ],
     };
 }
