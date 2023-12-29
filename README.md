@@ -23,10 +23,6 @@ fn main() {
             "Azure", "MongoDB", "SQL", "NoSQL", "Grafana", "Jaeger",
             "Open Telemetry", "Docker", "Prometheus"
         ],
-        education_background: Education {
-            degree: "Bachelor's in Chemistry",
-            post_graduation: "Postgraduate in Software Engineering",
-        },
         social_media_links: vec![
             "https://www.linkedin.com/in/eduardo-rerick/", "https://medium.com/@eduardorerick"
         ],
@@ -42,10 +38,7 @@ struct SoftwareEngineer {
     current_company: &'static str,
     education: Education,
     skills: Vec<&'static str>,
-    highlighted_projects: Vec<Project>,
-    education_background: Education,
     social_media_links: Vec<&'static str>,
-    open_source_contributions: Vec<Contribution>,
 }
 
 struct Education {
