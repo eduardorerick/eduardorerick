@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/eduardo-rerick-4799191a0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 ```rust
 //main.rs
 
